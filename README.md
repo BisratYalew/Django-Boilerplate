@@ -22,8 +22,10 @@
 
 <h3>Usage</h3>
 
-<h5> First, open the admin interface eg, 127.0.0.1:8000/admin... interface and then create a user or </h5>
-<h5> Type python manage.py createsuperuser in the python console and then login to the system</h5>
+<h5>>1) Open CMD and start the django type <b>python manage.py runserver</b></h5>
+<h5>2) <b>Then create a superuser by typing <b>python manage.py createsuperuser <username> <password> </b></h5>
+<h5>3) Finally open the admin interface using your webbrowser by typing  <b>127.0.0.1:8000/admin </b> on the url field </h5>
+
 
 
 
