@@ -6,9 +6,7 @@
 
 <br/>
 <p align="center">
-  <a href="http://github.com/bisratyalew">
-      <img src ="https://lh3.googleusercontent.com/-wnEvjqtMM64/V5IRJddJ-ZI/AAAAAAAAABg/IrIEDaYQaFkFqS9rOLv-qL3slRGCyfwygCEwYBhgL/w140-h140-p/13607001_111123475987884_1354606817277497713_n.jpg" alt="Bisrat Yalew"/>
-  </a>
+ 
 </p>
 <br/>
 
