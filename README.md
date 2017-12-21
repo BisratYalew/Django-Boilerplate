@@ -1,7 +1,5 @@
 # Django-Api-Boilerplate
 
-# Django-Simple-Crud-App
-
 <h2> This is builted by Django Web Framework by Bisrat Yalew </h2>
 
 # API / Back-End with Django Framework
