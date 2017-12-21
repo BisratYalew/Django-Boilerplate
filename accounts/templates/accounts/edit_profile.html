@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+<html>
+  <head>
+    <title>Profile</title>
+    {% block head %}
+    <title>Profile</title>
+    {% endblock %}
+
+  </head>
+  <body>
+    {% block body %}
+    <div class="container">
+      <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button class="btn btn-primary" type="submit">submit</button>
+    </form>
+
+    </div>
+    {% endblock%}
+
+  </body>
+</html>

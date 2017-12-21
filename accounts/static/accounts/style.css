@@ -1,0 +1,11 @@
+a {
+  color: orange;
+}
+
+a:hover {
+  color: blue;
+}
+
+.navbar_brand {
+  color: orange
+}
