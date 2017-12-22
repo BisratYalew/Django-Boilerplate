@@ -40,8 +40,6 @@ Follow me on github to check out my programs
 
 Contact me via [bisratyalew10@gmail.com](mailto:bisratyalew10@gmail.com) or [@bisratyalew](https://t.me/bisratyalew) on Telegram
 
-You can find me also on [@bisratyalew](https://instagram.com/bisratyalew) - on Instagram
-
 Thanks in advance.
 
 Have Fun!!!
