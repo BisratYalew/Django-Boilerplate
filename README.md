@@ -1,7 +1,7 @@
 # Django-Api-Boilerplate
 
 <h2> This is builted by Django Web Framework </h2>
-
+Use this boilerplate for your django projects
 # API / Back-End with Django Framework
 
 <br/>
