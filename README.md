@@ -1,6 +1,6 @@
 # Django-Api-Boilerplate
 
-<h2> This is builted by Django Web Framework by Bisrat Yalew </h2>
+<h2> This is builted by Django Web Framework </h2>
 
 # API / Back-End with Django Framework
 
